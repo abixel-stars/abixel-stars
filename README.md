@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="header.svg?v=4" width="100%" alt="Hello! I'm Abi — Front-End Developer" />
+  <img src="header.svg?v=5" width="100%" alt="Hello! I'm Abi — Front-End Developer" />
 </p>
 
 <p align="center">
@@ -8,7 +8,7 @@
 
 <!-- F1 car driving back and forth -->
 <p align="center">
-  <img src="f1-car.svg?v=2" alt="Max Verstappen's F1 car driving back and forth" width="640" />
+  <img src="f1-car.svg?v=3" alt="Max Verstappen's F1 car driving back and forth" width="640" />
 </p>
 
 ---

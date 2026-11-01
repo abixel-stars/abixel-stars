@@ -61,27 +61,27 @@
       <!-- front wing -->
       <rect x="186" y="96" width="16" height="6" rx="2" fill="#CC1E4A"/>
       <rect x="186" y="96" width="16" height="2.5" fill="#FFD700"/>
-      <!-- ban belakang (sedikit lebih besar) -->
+      <!-- ban belakang (standar, sama dgn depan) -->
       <g>
-        <circle cx="46" cy="104" r="22" fill="#14141c" stroke="#2c2c38" stroke-width="3"/>
+        <circle cx="46" cy="106" r="20" fill="#14141c" stroke="#2c2c38" stroke-width="3"/>
         <g class="spin" stroke="#8a8fa3" stroke-width="3" stroke-linecap="round">
-          <line x1="46" y1="86" x2="46" y2="122"/>
-          <line x1="28" y1="104" x2="64" y2="104"/>
-          <line x1="34" y1="92" x2="58" y2="116"/>
-          <line x1="58" y1="92" x2="34" y2="116"/>
+          <line x1="46" y1="90" x2="46" y2="122"/>
+          <line x1="30" y1="106" x2="62" y2="106"/>
+          <line x1="34" y1="94" x2="58" y2="118"/>
+          <line x1="58" y1="94" x2="34" y2="118"/>
         </g>
-        <circle cx="46" cy="104" r="4" fill="#FFD700"/>
+        <circle cx="46" cy="106" r="4" fill="#FFD700"/>
       </g>
-      <!-- ban depan (lebih kecil, tapi tidak terlalu kecil) -->
+      <!-- ban depan (standar, sama dgn belakang) -->
       <g>
-        <circle cx="158" cy="107" r="19" fill="#14141c" stroke="#2c2c38" stroke-width="3"/>
+        <circle cx="158" cy="106" r="20" fill="#14141c" stroke="#2c2c38" stroke-width="3"/>
         <g class="spin" stroke="#8a8fa3" stroke-width="3" stroke-linecap="round">
-          <line x1="158" y1="92" x2="158" y2="122"/>
-          <line x1="143" y1="107" x2="173" y2="107"/>
-          <line x1="147" y1="96" x2="169" y2="118"/>
-          <line x1="169" y1="96" x2="147" y2="118"/>
+          <line x1="158" y1="90" x2="158" y2="122"/>
+          <line x1="142" y1="106" x2="174" y2="106"/>
+          <line x1="146" y1="94" x2="170" y2="118"/>
+          <line x1="170" y1="94" x2="146" y2="118"/>
         </g>
-        <circle cx="158" cy="107" r="4" fill="#FFD700"/>
+        <circle cx="158" cy="106" r="4" fill="#FFD700"/>
       </g>
       <!-- asap knalpot -->
       <circle cx="14" cy="92" r="4" fill="#cfd3e0" opacity="0.5"/>

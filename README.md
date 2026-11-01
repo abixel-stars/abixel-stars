@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="header.svg" width="100%" alt="Hello! I'm Abi — Front-End Developer" />
+  <img src="header.svg?v=2" width="100%" alt="Hello! I'm Abi — Front-End Developer" />
 </p>
 
 <p align="center">
@@ -49,5 +49,5 @@
 ---
 
 <p align="center">
-  <img src="footer.svg" width="100%" alt="Thanks for stopping by! See you on track" />
+  <img src="footer.svg?v=2" width="100%" alt="Thanks for stopping by! See you on track" />
 </p>

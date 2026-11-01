@@ -43,8 +43,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abixel-stars&show_icons=true&theme=dark&title_color=CC1E4A&icon_color=FFD700&text_color=ffffff&bg_color=060A30&hide_border=true" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abixel-stars&layout=compact&theme=dark&title_color=CC1E4A&text_color=ffffff&bg_color=060A30&hide_border=true" alt="Top languages" height="165"/>
+  <img src="projects-card.svg" width="560" alt="Projects — the garage just opened" />
 </p>
 
 ---

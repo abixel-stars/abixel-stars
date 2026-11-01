@@ -7,13 +7,23 @@
     .t { font-family: 'Press Start 2P', monospace; }
   </style>
   <defs>
-    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#060A30"/>
-      <stop offset="0.55" stop-color="#1E2A56"/>
-      <stop offset="1" stop-color="#CC1E4A"/>
+    <filter id="blur" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="34"/></filter>
+    <linearGradient id="gloss" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.22"/>
+      <stop offset="0.55" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B0E1A"/>
+      <stop offset="1" stop-color="#131A33"/>
     </linearGradient>
   </defs>
-  <rect x="0" y="0" width="1200" height="260" rx="14" fill="url(#g)"/>
-  <text x="600.0" y="152.32" text-anchor="middle" class="t" font-size="62" fill="#FFFFFF">HELLO! I'M ABI</text>
-  <text x="600.0" y="232" text-anchor="middle" font-family="'Press Start 2P', monospace" font-size="23" fill="#FFFFFF" opacity="0.85">FRONT-END DEVELOPER</text>
+  <rect x="0" y="0" width="1200" height="260" rx="22" fill="url(#bg)"/>
+  <ellipse cx="144.0" cy="39.0" rx="336.00000000000006" ry="195.0" fill="#CC1E4A" opacity="0.55" filter="url(#blur)"/>
+  <ellipse cx="1056.0" cy="234.0" rx="360.0" ry="208.0" fill="#2B3A8F" opacity="0.6" filter="url(#blur)"/>
+  <ellipse cx="840.0" cy="26.0" rx="240.0" ry="130.0" fill="#7A1030" opacity="0.5" filter="url(#blur)"/>
+  <rect x="10" y="10" width="1180" height="240" rx="14" fill="#ffffff" opacity="0.07"/>
+  <rect x="10" y="10" width="1180" height="240" rx="14" fill="none" stroke="#ffffff" stroke-opacity="0.28" stroke-width="1.5"/>
+  <rect x="10" y="10" width="1180" height="120" rx="14" fill="url(#gloss)"/>
+  <text x="600.0" y="124.0" text-anchor="middle" class="t" font-size="60" fill="#FFFFFF" style="paint-order: stroke" stroke="#000000" stroke-opacity="0.35" stroke-width="1">HELLO! I'M ABI</text>
+  <text x="600.0" y="198.0" text-anchor="middle" class="t" font-size="20" fill="#FFD700" letter-spacing="3">FRONT-END DEVELOPER</text>
 </svg>

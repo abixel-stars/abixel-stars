@@ -8,7 +8,7 @@
 
 <!-- F1 car driving back and forth -->
 <p align="center">
-  <img src="f1-car.svg?v=3" alt="Max Verstappen's F1 car driving back and forth" width="640" />
+  <img src="f1-car.svg?v=4" alt="Max Verstappen's F1 car driving back and forth" width="640" />
 </p>
 
 ---
@@ -17,7 +17,7 @@
   <img src="h-about.svg?v=4" width="480" alt="About Me" />
 </p>
 
-- **I'm Abi, a young front-end dev with a lot of skills.**
+<p><b>I'm Abi, a young front-end dev with a lot of skills.</b></p>
 
 ---
 

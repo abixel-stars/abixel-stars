@@ -1,27 +1,31 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:060A30,50:1E2A56,100:CC1E4A&height=230&section=header&text=Halo!%20Saya%20Abi%20%F0%9F%8F%8E&fontSize=44&fontColor=ffffff&animation=fadeIn" width="100%"/>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=CC1E4A&center=true&vCenter=true&width=620&lines=Frontend+Developer+%F0%9F%92%BB;Ngebut+ngoding+kaya+RB21+%F0%9F%92%A8;Fans+garis+keras+Max+Verstappen+%F0%9F%8F%86;Selamat+datang+di+garasi+saya!" alt="typing" />
+  <img src="header.svg" width="100%" alt="Hello! I'm Abi — Front-End Developer" />
 </p>
 
-<!-- Mobil F1 bolak-balik -->
 <p align="center">
-  <img src="f1-car.svg" alt="Mobil F1 Max Verstappen bolak-balik" width="640" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1200&color=CC1E4A&center=true&vCenter=true&width=700&lines=Frontend+Developer;Lights+out+and+away+we+go!;Welcome+to+my+garage!" alt="typing" />
+</p>
+
+<!-- F1 car driving back and forth -->
+<p align="center">
+  <img src="f1-car.svg" alt="Max Verstappen's F1 car driving back and forth" width="640" />
 </p>
 
 ---
 
-### 🏁 Tentang Saya
+<p align="center">
+  <img src="h-about.svg" width="480" alt="About Me" />
+</p>
 
-- 👋 Hai! Saya **Abi**, mahasiswa yang hobinya ngoprek web sampai lupa waktu
-- 💻 Lagi fokus dalemin dunia **front-end**: bikin tampilan yang cakep *dan* ngebut
-- 🏎️ Kalau nggak lagi ngoding, kemungkinan besar lagi nonton **F1** (tim papan atas, tahu lah yang mana 😌)
-- 🎯 Misi: bikin web yang rasanya kayak mobil F1 — cepat, presisi, dan bikin orang melongo
-- ☕ Bahan bakar utama: kopi + rasa penasaran
+- **I'm Abi, a young front-end dev with a lot of skills.**
 
-### 🛠️ Keahlian Front-End
+---
 
-<p>
+<p align="center">
+  <img src="h-skills.svg" width="480" alt="Front-End Skills" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -32,23 +36,19 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
 
-### 📊 Statistik Balapan (eh, Ngoding)
+---
+
+<p align="center">
+  <img src="h-projects.svg" width="480" alt="Projects" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abixel-stars&show_icons=true&theme=dark&title_color=CC1E4A&icon_color=FFD700&text_color=ffffff&bg_color=060A30&hide_border=true" alt="GitHub stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abixel-stars&layout=compact&theme=dark&title_color=CC1E4A&text_color=ffffff&bg_color=060A30&hide_border=true" alt="Top languages" height="165"/>
 </p>
 
-### 🏆 Pit Wall Quotes
-
-> *"Ngoding itu kayak balapan: yang penting bukan cuma kenceng, tapi juga nggak nabrak production."*
->
-> *"CSS itu gampang... kata orang yang belum pernah centering div."*
-
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:CC1E4A,50:1E2A56,100:060A30&height=150&section=footer&text=Terima+kasih+udah+mampir!+%F0%9F%8F%81&fontSize=22&fontColor=ffffff" width="100%"/>
+  <img src="footer.svg" width="100%" alt="Thanks for stopping by! See you on track" />
 </p>
-
-<p align="center"><i>Dibuat dengan ☕, ❤️, dan kecepatan 350 km/h</i></p>

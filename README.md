@@ -49,5 +49,5 @@
 ---
 
 <p align="center">
-  <img src="footer.svg?v=2" width="100%" alt="Thanks for stopping by! See you on track" />
+  <img src="footer.svg?v=3" width="100%" alt="Thanks for stopping by! See you on track" />
 </p>

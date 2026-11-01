@@ -14,7 +14,7 @@
 ---
 
 <p align="center">
-  <img src="h-about.svg" width="480" alt="About Me" />
+  <img src="h-about.svg?v=2" width="480" alt="About Me" />
 </p>
 
 - **I'm Abi, a young front-end dev with a lot of skills.**
@@ -22,7 +22,7 @@
 ---
 
 <p align="center">
-  <img src="h-skills.svg" width="480" alt="Front-End Skills" />
+  <img src="h-skills.svg?v=2" width="480" alt="Front-End Skills" />
 </p>
 
 <p align="center">
@@ -39,11 +39,11 @@
 ---
 
 <p align="center">
-  <img src="h-projects.svg" width="480" alt="Projects" />
+  <img src="h-projects.svg?v=2" width="480" alt="Projects" />
 </p>
 
 <p align="center">
-  <img src="projects-card.svg" width="560" alt="Projects — the garage just opened" />
+  <img src="projects-card.svg?v=2" width="560" alt="Projects — the garage just opened" />
 </p>
 
 ---

@@ -7,27 +7,19 @@
     .t { font-family: 'Press Start 2P', monospace; }
   </style>
   <defs>
-    <filter id="blur" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="30"/></filter>
     <linearGradient id="gloss" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#ffffff" stop-opacity="0.20"/>
-      <stop offset="0.5" stop-opacity="0"/>
-    </linearGradient>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0B0E1A"/>
-      <stop offset="1" stop-color="#131A33"/>
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.10"/>
+      <stop offset="0.6" stop-opacity="0"/>
     </linearGradient>
   </defs>
-  <rect x="0" y="0" width="760" height="300" rx="22" fill="url(#bg)"/>
-  <ellipse cx="76.0" cy="270.0" rx="228.0" ry="210.0" fill="#CC1E4A" opacity="0.5" filter="url(#blur)"/>
-  <ellipse cx="684.0" cy="30.0" rx="228.0" ry="210.0" fill="#2B3A8F" opacity="0.55" filter="url(#blur)"/>
-  <rect x="10" y="10" width="740" height="280" rx="14" fill="#ffffff" opacity="0.07"/>
-  <rect x="10" y="10" width="740" height="280" rx="14" fill="none" stroke="#ffffff" stroke-opacity="0.28" stroke-width="1.5"/>
-  <rect x="10" y="10" width="740" height="140" rx="14" fill="url(#gloss)"/>
-  <text x="40" y="72" class="t" font-size="30" fill="#FFD700">PROJECT #001</text>
-  <text x="40" y="130" class="t" font-size="20" fill="#FFFFFF">THIS PROFILE</text>
-  <text x="40" y="168" class="t" font-size="13" fill="#FFFFFF" opacity="0.75">THE GARAGE JUST OPENED.</text>
-  <text x="40" y="196" class="t" font-size="13" fill="#FFFFFF" opacity="0.75">MORE BUILDS COMING</text>
-  <text x="40" y="224" class="t" font-size="13" fill="#FFFFFF" opacity="0.75">AT FULL SPEED.</text>
-  <text x="720" y="150" text-anchor="end" class="t" font-size="72" fill="#CC1E4A" stroke="#FFD700" stroke-width="1.5">01</text>
-  <text x="720" y="185" text-anchor="end" class="t" font-size="13" fill="#FFFFFF" opacity="0.8">PUBLIC REPO</text>
+  <rect x="0" y="0" width="760" height="300" rx="20" fill="#151B31"/>
+  <rect x="0" y="0" width="760" height="300" rx="20" fill="url(#gloss)"/>
+  <rect x="6" y="6" width="748" height="288" rx="14" fill="none" stroke="#ffffff" stroke-opacity="0.22" stroke-width="1.5"/>
+  <text x="40" y="74" class="t" font-size="28" fill="#FFD700">PROJECT #001</text>
+  <text x="40" y="132" class="t" font-size="19" fill="#FFFFFF">THIS PROFILE</text>
+  <text x="40" y="172" class="t" font-size="12" fill="#FFFFFF" opacity="0.8">THE GARAGE JUST OPENED.</text>
+  <text x="40" y="200" class="t" font-size="12" fill="#FFFFFF" opacity="0.8">MORE BUILDS COMING</text>
+  <text x="40" y="228" class="t" font-size="12" fill="#FFFFFF" opacity="0.8">AT FULL SPEED.</text>
+  <text x="720" y="152" text-anchor="end" class="t" font-size="70" fill="#FFD700">01</text>
+  <text x="720" y="188" text-anchor="end" class="t" font-size="12" fill="#FFFFFF" opacity="0.85">PUBLIC REPO</text>
 </svg>

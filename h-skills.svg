@@ -7,14 +7,23 @@
     .t { font-family: 'Press Start 2P', monospace; }
   </style>
   <defs>
+    <filter id="blur" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="34"/></filter>
     <linearGradient id="gloss" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#ffffff" stop-opacity="0.10"/>
-      <stop offset="0.6" stop-opacity="0"/>
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.22"/>
+      <stop offset="0.55" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B0E1A"/>
+      <stop offset="1" stop-color="#131A33"/>
     </linearGradient>
   </defs>
-  <rect x="0" y="0" width="760" height="110" rx="20" fill="#151B31"/>
-  <rect x="0" y="0" width="760" height="110" rx="20" fill="url(#gloss)"/>
-  <rect x="6" y="6" width="748" height="98" rx="14" fill="none" stroke="#ffffff" stroke-opacity="0.22" stroke-width="1.5"/>
-  <text x="380.0" y="67.96" text-anchor="middle" class="t" font-size="36" fill="#FFD700">FRONT-END SKILLS</text>
+  <rect x="0" y="0" width="760" height="110" rx="20" fill="url(#bg)"/>
+  <ellipse cx="91.2" cy="16.5" rx="212.8" ry="82.5" fill="#CC1E4A" opacity="0.55" filter="url(#blur)"/>
+  <ellipse cx="668.8" cy="99.0" rx="228.0" ry="88.0" fill="#2B3A8F" opacity="0.6" filter="url(#blur)"/>
+  <ellipse cx="532.0" cy="11.0" rx="152.0" ry="55.0" fill="#7A1030" opacity="0.5" filter="url(#blur)"/>
+  <rect x="10" y="10" width="740" height="90" rx="12" fill="#ffffff" opacity="0.07"/>
+  <rect x="10" y="10" width="740" height="90" rx="12" fill="none" stroke="#ffffff" stroke-opacity="0.28" stroke-width="1.5"/>
+  <rect x="10" y="10" width="740" height="45" rx="12" fill="url(#gloss)"/>
+  <text x="380.0" y="67.96" text-anchor="middle" class="t" font-size="36" fill="#FFD700" style="paint-order: stroke" stroke="#000000" stroke-opacity="0.35" stroke-width="1">FRONT-END SKILLS</text>
   
 </svg>

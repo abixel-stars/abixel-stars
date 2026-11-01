@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="header.svg?v=7" width="100%" alt="Hello! I'm Abi — Front-End Developer" />
+  <img src="top-banner.svg" width="100%" alt="Hello! I'm Abi — Front-End Developer" />
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 ---
 
 <p align="center">
-  <img src="h-about.svg?v=7" width="480" alt="About Me" />
+  <img src="banner-about.svg" width="480" alt="About Me" />
 </p>
 
 <p align="center"><b>I'm Abi, a young front-end dev with a lot of skills.</b></p>
@@ -22,7 +22,7 @@
 ---
 
 <p align="center">
-  <img src="h-skills.svg?v=7" width="480" alt="Front-End Skills" />
+  <img src="banner-skills.svg" width="480" alt="Front-End Skills" />
 </p>
 
 <p align="center">
@@ -39,15 +39,15 @@
 ---
 
 <p align="center">
-  <img src="h-projects.svg?v=7" width="480" alt="Projects" />
+  <img src="banner-projects.svg" width="480" alt="Projects" />
 </p>
 
 <p align="center">
-  <img src="projects-card.svg?v=7" width="560" alt="Projects — the garage just opened" />
+  <img src="card-projects.svg" width="560" alt="Projects — the garage just opened" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="footer.svg?v=7" width="100%" alt="Thanks for stopping by! See you on track" />
+  <img src="bottom-banner.svg" width="100%" alt="Thanks for stopping by! See you on track" />
 </p>

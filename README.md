@@ -43,7 +43,7 @@
 </p>
 
 <p align="center">
-  <img src="card-projects.svg" width="560" alt="Projects — the garage just opened" />
+  <img src="projects-chart.svg" width="560" alt="Projects by commits — auto-updated daily" />
 </p>
 
 ---
